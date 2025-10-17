@@ -140,7 +140,7 @@ re: fclean all
 
 ## 👤 Autore
 **vhacman**
-- Github: [@DevGabi98](https://github.com/vhacman)
+- Github: [vhacman](https://github.com/vhacman)
 - 42 Intra: [vhacman](https://profile.intra.42.fr/)
 
 ## ⚖️ Licenza
